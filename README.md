@@ -1,3 +1,11 @@
+
+
+    curl https://raw.githubusercontent.com/andytwoods/alexaDuploServo/master/servo_server.py servo.py
+    sudo pip3 install flask-ask
+    sudo pip3 install RPi.GPIO
+    sudo pip3 install 'cryptography<2.2'
+
+
 # alexaDuploServo
 
 
